@@ -17,7 +17,7 @@
 2. **Установите библиотеки:**
    `pip install -r requirements.txt`
 
-3.Настройка:
+3. Настройка:
    Откройте main.py.
    Вствьте свои api_id и api_hash от my.telegram.org.
    Вставьте токен Discord-бота (Bot Token) с Discord Developer Portal.
